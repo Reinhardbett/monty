@@ -7,7 +7,7 @@
  * @cline: line number;
  * Return: no return
  * info:The result is stored in 2nd value node from the top
- * and top value removed.
+ * and the top value removed.
  */
 
 void _mod(stack_t **doubly, unsigned int cline)
