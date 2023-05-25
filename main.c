@@ -35,7 +35,7 @@ void start_vglo(FILE *fd)
  *
  * @argc: argument count
  * @argv: argument vector
- * Return: file struct
+ * Return: file structure
  */
 FILE *check_input(int argc, char *argv[])
 {
