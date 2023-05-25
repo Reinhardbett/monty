@@ -14,8 +14,8 @@ void _queue(stack_t **doubly, unsigned int cline)
 }
 
 /**
- * _stack - sets format of data to stack (LIFO/FILO)
- * @doubly: linked list head
+ * _stack - sets the format of data to stack (LIFO/FILO)
+ * @doubly: linked list's head
  * @cline: line number
  */
 void _stack(stack_t **doubly, unsigned int cline)
