@@ -18,7 +18,7 @@
  * @next: points to the next element of the stack (or queue)
  *
  * Description: doubly linked list node structure
- * for stack, queues, LIFO, FIFO Holberton project
+ * for stack, queues, LIFO, FIFO Alx project
  */
 typedef struct stack_s
 {
@@ -37,7 +37,7 @@ typedef struct stack_s
  * @buffer: input text
  *
  * Description: doubly linked list node structure
- * for stack, queues, LIFO, FIFO Holberton project
+ * for stack, queues, LIFO, FIFO Alx project
  */
 typedef struct globals
 {
