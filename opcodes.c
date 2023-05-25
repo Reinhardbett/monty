@@ -107,7 +107,7 @@ void _pop(stack_t **doubly, unsigned int cline)
 /**
  * _swap - swaps the top two elements of the stack
  *
- * @doubly: head of the linked list
+ * @doubly: head of a linked list
  * @cline: line number
  * Return: no return
  */
