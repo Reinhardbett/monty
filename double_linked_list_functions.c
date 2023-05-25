@@ -39,7 +39,7 @@ stack_t *add_dnodeint_end(stack_t **head, const int n)
 
 /**
  *add_dnodeint - add a note at the begining of the doubly link list
- *@head: first position of linked list
+ *@head: first position of the linked list
  *@n: data to store
  *Return: a doubly linked list
  */
